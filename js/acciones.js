@@ -1,7 +1,7 @@
 //JavaScript
 $(document).ready(function(e){	
 $('#principal').height($('#page1').height());
-     document.addEventListener("deviceready",function());
+     document.addEventListener("deviceready",function(){
 	 
 	 audio=window.plugins.LowLatencyAudio;
 	 
